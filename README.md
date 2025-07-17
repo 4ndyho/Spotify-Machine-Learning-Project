@@ -10,8 +10,9 @@ A description of each problem, along with a detailed overview of the data, is av
 
 This project covers Feature Engineering, standardisation. 
 Baseline models are used:
-(Classification) Logistic Regression, Decision Tree and K-Nearest Neighbours. 
-(Regression) Linear Regression, Lasso Regression, Decision Tree Regression.
+- (Regression) Linear Regression, Lasso Regression, Decision Tree Regression.
+- (Classification) Logistic Regression, Decision Tree and K-Nearest Neighbours. 
+
 
 Advanced models are used: RandomForest, SVM and XGBoost.
 
